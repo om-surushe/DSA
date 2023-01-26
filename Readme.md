@@ -25,6 +25,7 @@ Tutorial Description
 
 #### Video 2: Write Your First Program in C++
 - [Notes](https://drive.google.com/file/d/14CMAnuh2b4Lg0Qf2nJS_ZtYwg1PMoF_q/view)
+- [Imp Link](https://stackoverflow.com/questions/18914106/what-is-the-use-of-using-namespace-std?lq=1)
 
 
 ## Additional Resources:
