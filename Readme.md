@@ -19,15 +19,15 @@ This README file is intended to document your journey as you follow along with [
 Tutorial Description
 
 ## Progress:
-- [ ] Video 1: Title
+#### Video 1: Intro to Programming & Flowcharts
+- [Notes](https://drive.google.com/file/d/1Mf2JpjY2z6s1Nl18ue1PDxdGoie50ywb/view)
+- [Home Work](https://whimsical.com/c-dsa-lecture-1-MZ3SwQLw22kFqVBA37SaCg)
 
-## Notes:
-#### Video 1: Title
-- What I learned:
-- Challenges:
+#### Video 2: Write Your First Program in C++
+- [Notes](https://drive.google.com/file/d/14CMAnuh2b4Lg0Qf2nJS_ZtYwg1PMoF_q/view)
 
 
 ## Additional Resources:
-- [Resource Name](link)
+- [Drive Link](link)
 
 Remember, documenting your journey can help you to stay organized and focused as you learn, and can also serve as a helpful reference in the future. Good luck!
