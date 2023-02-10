@@ -12,3 +12,6 @@
 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|[Dynamic Programming](https://leetcode.com/problems/pascals-triangle/discuss/38125/Here-is-my-brief-O(k)-solution)|
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Hash Table|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Binary Search|
+|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|Hash Table|
+|[Ransom Note](https://leetcode.com/problems/ransom-note/)|Easy|Hash Table|
+|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Hash Table|
