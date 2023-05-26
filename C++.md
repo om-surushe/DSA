@@ -35,6 +35,7 @@ bool b = true; // booleans
 
 <details>
   <summary>Operators</summary>
+  
 ```
 + - * / % // arithmetic operators
 == != > < >= <= // comparison operators
